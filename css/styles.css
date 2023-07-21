@@ -15,23 +15,9 @@ hr {
   border-width: 5px;
   width: 5%;
 }
-img:hover {
-    clip-path: none;
-    border-color: black;
-    border-style: dotted;
-    border-width: 5px;
-}
+
 
 /**************************Class Selectors*****************/
-.circular {
-    clip-path: circle(45%);
-}
 .portrait {
     height: 300px;
-}
-
-/**************************ID Selectors*****************/
-#heading {
-    /*color: red
-    */
 }
